@@ -4,7 +4,7 @@
  
 # First approach: extracting data from HTML using beautiful soup, run search 2020 for URLs -- could  not achieve desired results, was not able to extract legitimate data. Search using keywords, like 'covid and economy,''pandemic and economy,''covid-19,''coronavirus,''financial,''economy'. Intended to create a list of URL values, or multi-dimensional lists with months.
 
-# Second approach: using Athena in AWS to query data, then downloading and uploading data in form of CSV file to Python using cdx toolkit. Access WARC files and sort/prettify using beautiful soup.
+# Second approach: using Athena in AWS to query data, then downloading and uploading data in form of CSV file to Python using cdx toolkit. Access WARC files and sort/prettify using beautiful soup. Proved to be too complex given time constraints. 
 
 
 
